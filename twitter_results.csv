@@ -1,0 +1,35 @@
+,disease_type,sentiment,timestamp,user_location
+0,dengue,0,2017-11-12,India
+1,dengue,1,2017-11-12,india
+2,dengue,0,2017-11-12,India
+3,dengue,0,2017-11-12,Mumbai India
+4,dengue,0,2017-11-12,Bengaluru India
+5,dengue,0,2017-11-12,Rajasthan India
+6,dengue,0,2017-11-12,Kolkata India
+7,dengue,1,2017-11-12,INDIA
+8,dengue,0,2017-11-12,Kolkata India
+9,dengue,0,2017-11-12,INDIA
+10,dengue,0,2017-11-12,Mysore India
+11,dengue,0,2017-11-12,Bhopal India
+12,dengue,-1,2017-11-12,Dispur Assam India
+13,dengue,1,2017-11-12,"India
+"
+14,dengue,0,2017-11-12,Mumbai  India
+15,dengue,-1,2017-11-12,India
+16,dengue,0,2017-11-12,Bengaluru India
+17,dengue,0,2017-11-12,Santiniketan India
+18,dengue,0,2017-11-12,India
+19,dengue,0,2017-11-12,New Delhi India
+20,dengue,0,2017-11-12,Kota India
+21,dengue,0,2017-11-12,India new
+22,dengue,0,2017-11-12,mumbai India
+23,dengue,0,2017-11-12,Patna India
+24,dengue,0,2017-11-12,India
+25,dengue,-1,2017-11-12,Navi Mumbai India
+26,dengue,1,2017-11-12,India
+27,dengue,0,2017-11-12,India
+28,dengue,0,2017-11-12,Kolkata India
+29,dengue,0,2017-11-12,Chhattisgarh India
+30,dengue,0,2017-11-12,india
+31,dengue,1,2017-11-12,India
+32,dengue,0,2017-11-12,Jaipur India
