@@ -4,6 +4,7 @@
 1.	Social network based forecasting 
 2.	Generic online medical System
 3.	Google flu dataset based forecasting 
+
 •	Our solution  provide you answers from our big data healthcare database consisting of tens of millions of healthcare conversations taken place in social media in the country and across the globe. Our database has data for over the last couple of years, providing a unique set of comparative historic data.
 •	The data that feeds into the system will be from different geographies and the data will be used to get statistics out of it for each major disease on the particular geographical location for over period of time. For instance, the application can give historical statistics of Flu in Tamil Nadu between two time units and also what may happen in the near future. This helps government and other stockholders to have some clue of potential event in the near term and prepare themselves to tackle the situations in an effective way than ever.
 •	In case of rural areas where social networking based analysis is not widely adapted, we offer a common web portal/mobile app where medical practitioner, patients and pharmaceutical shops to enter the prescriptions and diagnosis report in our system.
